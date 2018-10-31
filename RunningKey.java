@@ -4,12 +4,12 @@ import java.io.*;
 public class RunningKey {
 
     /**
-     * Prince Nwaonicha, John Schonebaum, Zihan Am
+     * Prince Nwaonicha, John Schonebaum, Zihan An
      *
      *  This program decodes a Running Key cipher text
      * using a known-plaintext attack. If part of the plaintext or keystream
      * is known or guessed, the program will perform a Vignere cipher decoding
-     * of the cipher text for each line, and offset by the lenght of the known plaintext.
+     * of the cipher text for each line, and offset by the length of the known plaintext.
      *
      * The results are outputted to a text file.
      *
